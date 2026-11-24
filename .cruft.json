@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/hypchau/mlops-project-template.git",
-  "commit": "09ffc859bf507c9e8f79b8c7a89bee97cd9a52c8",
+  "commit": "e4d648341a0cc16ec7d8d7417b7faf068aa42488",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -13,7 +13,7 @@
       "version": "0.1.0",
       "description": "Reusable MLOps project",
       "_template": "https://github.com/hypchau/mlops-project-template.git",
-      "_commit": "09ffc859bf507c9e8f79b8c7a89bee97cd9a52c8"
+      "_commit": "e4d648341a0cc16ec7d8d7417b7faf068aa42488"
     }
   },
   "directory": null
